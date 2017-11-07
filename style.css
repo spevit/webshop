@@ -1,0 +1,136 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Arial", "serif";
+}
+
+.header_nav {
+    background-color: #9999ff;
+    color: #FFFFFF;
+    list-style: none;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+
+.header_nav > li {
+    display: inline-block;
+    padding-right: 50px;
+    font-size: 12px;
+}
+
+.header_nav > li > a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.header_nav > li > a:hover {
+    color: #C1C1C1;
+}
+
+.logo {
+    color: #000000;
+    float: left;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 0px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.logo > a {
+    text-decoration: none;
+    color: #000000;  
+}
+
+.banner {
+    width: 100%;
+    display: block;
+}
+
+.banner > .banner-image {
+    width: 100%;
+    display: block;
+}
+
+.left {
+    float: left;
+    width: 170px;
+    padding: 15px;
+    border-radius: 1px;
+    margin-top: 0px;
+    margin-left: 5px;
+}
+
+.left > h3 {
+    padding-bottom: 1px;
+    margin-bottom: 5px; 
+}
+
+.left > p {
+    padding-top: 1px;
+    line-height: 20pt;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+.left > li {
+     list-style: none;
+     font-size: 14px;
+     padding-top: 1px;
+     line-height: 20px;
+     margin: 1px;
+}
+
+.productcategorieen {
+    width: 90px;
+    border: 1px solid #c1c1c1;
+    margin: 20px 10px;
+    margin: 10px 10px 10px 10px;
+    padding: 0 5px;
+    float: left;
+}
+
+.xbox_live_Gold_card {
+   display: inline;
+   width: 90px;
+   height: 150px;
+   margin: 0 auto;
+   
+}
+
+.xbox_live_Gold_card > xbox_live_Gift_card {
+   display: inline;
+   width: 90px;
+   height: 150px;
+   margin: 0 auto;
+}   
+
+.logo > li > a {
+    text-align: justify;
+    list-style: none;
+    width: 100%;
+    height: 100%;
+    display: block;
+    padding-bottom: 10px;
+}
+
+.footer_nav {
+    background-color: #9999ff;
+    color: #FFFFFF;
+    list-style: none;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+
+.footer_nav > li {
+    display: inline-block;
+    padding-right: 50px;
+    font-size: 12px;
+}
+
+.footer_nav > li > a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
